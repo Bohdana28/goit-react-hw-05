@@ -1,0 +1,9 @@
+.text {
+    font-size: 18px;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(57, 24, 206);
+    font-weight: 800;
+}
